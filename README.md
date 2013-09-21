@@ -2,7 +2,11 @@ Introduction
 ------------
 It's really iritating the xkcd doesn;t detect the mobile broswer and redirects
 to m.xkcd.org, which allows to see the alt-text easily. This app does it for
-you ... It's based on Redirect for youtube.be byRiley Brewer 
+you ... 
+
+[Play Store](https://play.google.com/store/apps/details?id=org.ayal.xkcd2mobile)
+
+based on Redirect for youtube.be by Riley Brewer 
 Getting Started
 ---------------
 1. Read all 20 lines source code.
@@ -12,6 +16,7 @@ Getting Started
 License
 -------
 Copyright 2013 Shai Ayal
+
 Copyright 2013 Riley Brewer
 
 Licensed under the Apache License, Version 2.0 (the "License");

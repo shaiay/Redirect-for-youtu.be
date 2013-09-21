@@ -10,7 +10,13 @@ public class XKCDUrlActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        String uriString = String.format(XKCD_M, getIntent().getData().getLastPathSegment());
+
+        String LastPathSegment = getIntent().getData().getLastPathSegment();
+        if (LastPathSegment==null) {
+            LastPathSegment = "";
+        }
+        
+        String uriString = String.format(XKCD_M,LastPathSegment);
         Intent intent = new Intent();
         intent.setData(Uri.parse(uriString));
         startActivity(intent);

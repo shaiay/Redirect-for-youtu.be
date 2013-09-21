@@ -1,9 +1,8 @@
 Introduction
 ------------
-It's really irritating that the Youtube app doesn't handle their own 
-short URLs. This app expands them and hands them back to the OS.
-[Google Play](https://play.google.com/store/apps/details?id=com.rileybrewer.yturlfix)
-
+It's really iritating the xkcd doesn;t detect the mobile broswer and redirects
+to m.xkcd.org, which allows to see the alt-text easily. This app does it for
+you ... It's based on Redirect for youtube.be byRiley Brewer 
 Getting Started
 ---------------
 1. Read all 20 lines source code.
@@ -12,6 +11,7 @@ Getting Started
 
 License
 -------
+Copyright 2013 Shai Ayal
 Copyright 2013 Riley Brewer
 
 Licensed under the Apache License, Version 2.0 (the "License");
@@ -28,5 +28,7 @@ limitations under the License.
 
 Credits
 -------
-"Television" symbol by Travis Yunis, from thenounproject.com collection.
-EBU Colorbars.svg image by Joghurt, from Wikimedia Commons.
+Based on Redirect For Youtu.be
+[Google Play](https://play.google.com/store/apps/details?id=com.rileybrewer.yturlfix)
+by Riley Brewer
+

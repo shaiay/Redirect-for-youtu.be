@@ -6,7 +6,7 @@ import android.net.Uri;
 import android.os.Bundle;
 
 public class XKCDUrlActivity extends Activity {
-    private static final String XKCD_M = "http://m.xkcd.org/%s";
+    private static final String XKCD_M = "http://m.xkcd.com/%s";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

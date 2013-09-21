@@ -28,7 +28,6 @@ limitations under the License.
 
 Credits
 -------
-Based on Redirect For Youtu.be
-[Google Play](https://play.google.com/store/apps/details?id=com.rileybrewer.yturlfix)
+Based on [Redirect For Youtu.be](https://play.google.com/store/apps/details?id=com.rileybrewer.yturlfix)
 by Riley Brewer
 
